@@ -9,7 +9,7 @@ public class MyFirstJavaProgram {
 		
     	// This code makes a new Robot
     	Robot rob = new Robot();
-
+   
         // PEN.  Put the robot's pen down so it can draw, Use this command:
 		 /**     rob.penDown();    **/
 
