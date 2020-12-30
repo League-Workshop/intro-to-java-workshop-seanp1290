@@ -16,7 +16,7 @@ rob.penDown();
 		//  SPEED. Make the robot go at maximum speed (100)
 rob.setSpeed(25);
 		//  COLOR. Set the pen to a color that you like for the shape
-rob.setRandomPenColor();
+rob.setRandomPenColor(); 
 		//  NUMBER OF SIDES. Make an int variable for the number of sides the shape will have.
 		//  				(Hint: its called PentagonCrazy)
 int side = 0
